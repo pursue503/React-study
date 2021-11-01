@@ -1,4 +1,9 @@
 package chapter2
 
-class `Chapter2-1-3` {
-}
+/*
+    변수
+
+
+
+ */
+
